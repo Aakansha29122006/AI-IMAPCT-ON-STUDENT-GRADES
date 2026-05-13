@@ -1,9 +1,6 @@
 # 🎓 AI Impact on Student Grades: Predictive Analysis & Insights
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![ML](https://img.shields.io/badge/Machine%20Learning-KNN-green.svg)
-![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+Dataset source - https://www.kaggle.com/datasets/rakeshkapilavai/ai-tool-usage-by-indian-college-students-2025?select=Students.csv
 
 ---
 
@@ -115,13 +112,4 @@ The model was validated using an 80-20 stratified split and cross-validation.
 
 ---
 
-## 👥 Authors & Contribution
-*   **Your Name** - *Lead Researcher & ML Engineer*
-*   Feel free to reach out for collaborations or questions!
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-*Created as part of an Advanced Machine Learning research project.*
 
