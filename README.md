@@ -51,7 +51,6 @@ The dataset consists of **3,614 entries** across **16 initial features**.
 | `Use_Cases` | Primary intent (Assignments, MCQ practice, Learning, Doubt Solving) | Multi-label |
 | `Trust_in_AI` | Level of confidence in AI-generated content (Scale 1-5) | Numeric |
 | `Awareness_Level` | Self-reported knowledge of AI capabilities | Numeric |
-| `Professor_Guidance` | Whether a teacher encouraged/guided the student in using AI | Boolean |
 
 ---
 
